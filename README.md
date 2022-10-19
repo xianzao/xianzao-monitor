@@ -13,8 +13,6 @@
 
 - 使用 xianzao-cli 实现代码初始化
 
-## 使用方式
-
 ## NPM
 
 项目已自动更新至 NPM，请移步至[xianzao-monitor](https://www.npmjs.com/package/xianzao-monitor)
