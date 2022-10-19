@@ -40,7 +40,7 @@
     "inquirer": "^8.0.0",
     "lint-staged": "^12.4.1",
     "prettier": "^2.7.1",
-    "xianzao-cli": "^1.0.3"
+    "xianzao-cli": "^1.0.5"
   },
   "lint-staged": {
     "*.{js,ts,vue,jsx,tsx}": [
