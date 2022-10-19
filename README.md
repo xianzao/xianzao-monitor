@@ -11,7 +11,13 @@
 
 ## 实现功能
 
-- 使用 xianzao-cli 实现代码初始化
+- 使用 xianzao-cli 实现代码初始化；
+- 支持 JS、Vue2/3、 React、 Node 等错误信息的收集；
+- 支持获取页面 performance 数据；
+- 支持错误告警分发；
+- 支持项目稳定性大图查看；
+- 支持 sourcemap 查看错误堆栈；
+- 支持无埋点植入；
 
 ## NPM
 
